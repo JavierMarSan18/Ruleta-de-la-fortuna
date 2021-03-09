@@ -26,7 +26,7 @@ public class Ruleta {
 				Ruleta(premios);
 			} else if (op.equals("2")) {
 				ImprimirPremios(premios);
-			} else if (op.equals("2")) {
+			} else if (op.equals("3")) {
 				condicion = false;
 			}
 		} while (condicion);
